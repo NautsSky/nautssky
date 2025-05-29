@@ -1,0 +1,26 @@
+{
+
+"options": {
+	"00":"Sempre correr",
+	"01":"Lembrar comando"
+},
+
+"actors": {
+	"01":"Harold",
+	"02":"Therese",
+	"03":"Marsha",
+	"04":"Lucious",
+	"05":"Raze"
+},
+
+"npc":"Meu nome é Haroldo",
+
+"map01": {
+	"00":"Ei, qual o seu nome aluno?",
+	"01":"Meu nome é #{actors.01}",
+	"02":"",
+	"03":"",
+	"04":""
+}
+
+}

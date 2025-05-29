@@ -1,0 +1,26 @@
+{
+
+"options": {
+	"00":"Always Dash",
+	"01":"Command Remember"
+},
+
+"actors": {
+	"01":"Harold",
+	"02":"Therese",
+	"03":"Marsha",
+	"04":"Lucious",
+	"05":"Raze"
+},
+
+"npc":"My name is Harold",
+
+"map01": {
+	"00":"Hey, what is your name, student?",
+	"01":"My name is #{actors.01}",
+	"02":"",
+	"03":"",
+	"04":""
+}
+
+}

@@ -1,0 +1,13 @@
+{
+    "name": "",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+	"chromium-args": "--disable-raf-throttling --enable-zero-copy --limit-fps=60 --remote-debugging-port=9222 --ignore-gpu-blacklist ",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "width": 816,
+        "height": 624,
+        "icon": "icon/icon.png"
+    }
+}

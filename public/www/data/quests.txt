@@ -1,0 +1,5 @@
+// ID: 1
+Name: Pergi ke Desa
+Desc: Luma dan Rhea harus pergi ke desa untuk mencari bantuan setelah insiden di hutan.
+Req: none
+Show: true

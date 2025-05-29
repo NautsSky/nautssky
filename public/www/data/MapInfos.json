@@ -1,13 +1,16 @@
 [
 null,
-{"id":1,"expanded":true,"name":"House 1","order":10,"parentId":8,"scrollX":813,"scrollY":465},
-{"id":2,"expanded":true,"name":"Welcome","order":6,"parentId":0,"scrollX":1157,"scrollY":738},
-{"id":3,"expanded":true,"name":"Desa 1","order":8,"parentId":7,"scrollX":1165.0909090909092,"scrollY":1243.6363636363637},
-{"id":4,"expanded":true,"name":"Taman 0","order":5,"parentId":0,"scrollX":1182.5454545454545,"scrollY":676.3636363636364},
-{"id":5,"expanded":true,"name":"Hutan 0","order":1,"parentId":0,"scrollX":1165.0909090909092,"scrollY":763.6363636363636},
-{"id":6,"expanded":true,"name":"Inside Ruins 0","order":4,"parentId":0,"scrollX":1165.0909090909092,"scrollY":1086.5454545454545},
-{"id":7,"expanded":true,"name":"Desa 0","order":7,"parentId":0,"scrollX":1165.0909090909092,"scrollY":676.3636363636364},
-{"id":8,"expanded":true,"name":"House 0","order":9,"parentId":0,"scrollX":1182.5454545454545,"scrollY":676.3636363636364},
-{"id":9,"expanded":false,"name":"Hutan 1","order":2,"parentId":5,"scrollX":1165.0909090909092,"scrollY":763.6363636363636},
-{"id":10,"expanded":false,"name":"Forest of Decay","order":3,"parentId":5,"scrollX":1457.4545454545455,"scrollY":746.1818181818182}
+{"id":1,"expanded":true,"name":"House 1","order":13,"parentId":8,"scrollX":534,"scrollY":410},
+{"id":2,"expanded":true,"name":"Welcome","order":1,"parentId":0,"scrollX":1060,"scrollY":488.5},
+{"id":3,"expanded":true,"name":"Desa 1","order":5,"parentId":7,"scrollX":1068,"scrollY":322},
+{"id":4,"expanded":true,"name":"Nomad Camp","order":9,"parentId":11,"scrollX":1387,"scrollY":1622.5},
+{"id":5,"expanded":true,"name":"Desa 2","order":6,"parentId":7,"scrollX":1088,"scrollY":481},
+{"id":6,"expanded":false,"name":"Inn 2F","order":10,"parentId":4,"scrollX":533,"scrollY":382.5},
+{"id":7,"expanded":true,"name":"Desa 0","order":4,"parentId":0,"scrollX":1068,"scrollY":1138},
+{"id":8,"expanded":true,"name":"House 0","order":12,"parentId":0,"scrollX":533,"scrollY":414.5},
+{"id":9,"expanded":true,"name":"end","order":3,"parentId":2,"scrollX":1387,"scrollY":1622.5},
+{"id":10,"expanded":true,"name":"Map_Hutan_Rhea","order":7,"parentId":0,"scrollX":1092,"scrollY":902.5},
+{"id":11,"expanded":true,"name":"Map_Hutan","order":8,"parentId":10,"scrollX":1812,"scrollY":1654.5},
+{"id":12,"expanded":false,"name":"CutScreen","order":2,"parentId":2,"scrollX":541,"scrollY":305.5},
+{"id":13,"expanded":true,"name":"Nomad Camp 0","order":11,"parentId":4,"scrollX":816,"scrollY":382.5}
 ]
